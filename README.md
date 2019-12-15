@@ -1,6 +1,6 @@
 # Content Analysis and Modeling - Health Informatics
 
-Objective: Content analysis of chief complaints is performed to help hospitals understand the types of patients visit the hospital and predicting the length of stay of the patient at the hospital. These two models were requirements from local Los Angeles hospitals and this research is done in collaboration with Dr. Sriram Dasu, Data Science and Operations department, University of Southern California.
+Objective: Content analysis of chief complaints is performed to help hospitals understand the types of patients visit their hospital and predicted the length of stay of the patient at various stages at the hospital. These two models were requirements from local Los Angeles hospitals and this research is done in collaboration with Dr. Sriram Dasu, Data Science and Operations department, University of Southern California.
 
 Data is from local Los Angeles hospitals. Data consists of patients' information like chief complaint, sex, age, acuity and expected wait time at the hospital, etc.
 
