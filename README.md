@@ -27,7 +27,7 @@ Hence, ICD codes are considered in later notebooks for content analysis.
 
 ## Classification using deep learning models - LSTM and BERT - check codes/ICD - SVM - LR - Analysis
 
-1. Trained deep learning models (LSTM and BERT) on NVIDIA® GeForce® RTX™ 2060 6 GB GPU. 
+1. Trained deep learning models (LSTM and BERT) on EC2 instance. 
 
 2. However, the performance of these models was the same as conventional NLP models (SVM, LR, Naive Bayes). Hence conventional models were prefered for this dataset.
 
